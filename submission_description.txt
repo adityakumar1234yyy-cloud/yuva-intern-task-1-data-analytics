@@ -1,0 +1,21 @@
+Task 1 – Data Science Fundamentals Assessment
+
+This project demonstrates foundational data analytics skills using Python, Pandas, and basic statistical methods. It includes a small synthetic dataset, data-quality checks, descriptive statistics, and a visualization exploring the relationship between study hours and scores. The scripts are designed to be run locally, and the generated outputs support reproducibility.
+
+The dataset is illustrative and synthetic; it does not represent real students or a real-world population. The correlation shown is descriptive only and should not be interpreted as evidence of causation.
+
+Contents:
+- Python script for generating and analysing the example dataset
+- Synthetic CSV dataset
+- Descriptive-statistics output and run summary
+- Visualization output
+- Automated tests and setup instructions
+- Task 1 assessment report
+
+To run:
+1. Install the packages listed in requirements.txt.
+2. Run `python src/fundamentals_demo.py`.
+3. Run `pytest -q` to execute the tests.
+
+Internship: YuvaIntern – Data Analyst Internship
+Author: Aditya Kumar
