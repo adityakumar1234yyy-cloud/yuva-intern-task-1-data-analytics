@@ -1,0 +1,32 @@
+{
+  "records": 10,
+  "missing_values_by_column": {
+    "student_id": 0,
+    "study_hours": 0,
+    "score": 0,
+    "attendance_pct": 0
+  },
+  "duplicate_rows": 0,
+  "mean_score": 69.3,
+  "median_score": 68.5,
+  "mode_scores": [
+    49,
+    54,
+    58,
+    63,
+    67,
+    70,
+    76,
+    81,
+    84,
+    91
+  ],
+  "sample_standard_deviation_score": 13.7,
+  "study_hours_score_pearson_correlation": 0.991,
+  "interpretation_note": "Synthetic demonstration only. Correlation describes association and does not establish that study hours cause higher scores.",
+  "generated_files": [
+    "data/illustrative_student_scores.csv",
+    "outputs/descriptive_statistics.csv",
+    "outputs/study_hours_vs_score.png"
+  ]
+}
